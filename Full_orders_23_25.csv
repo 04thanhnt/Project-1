@@ -1,4 +1,5 @@
-﻿321224bc-6a05-48fa-a332-1c66d8d9da80,2839ee13-c4a8-495e-b522-7e1772610d15,1013,Airtight Storage Container,Accessories,2025-11-30,2023-03-14,West,3,61.04,183.12,23.37,77.12,106
+﻿orderid,customerid,productid,productname,productcategory,orderdate,customerjoindate,region,quantity,price,revenue,base_cost,COGS,Gross_Profit
+321224bc-6a05-48fa-a332-1c66d8d9da80,2839ee13-c4a8-495e-b522-7e1772610d15,1013,Airtight Storage Container,Accessories,2025-11-30,2023-03-14,West,3,61.04,183.12,23.37,77.12,106
 e7e2d1db-a980-46c8-b3c8-48fff8014951,0fd8caf3-b00a-4f52-89be-fcd2047e17af,1013,Airtight Storage Container,Accessories,2025-11-30,2023-10-01,West,2,61.04,122.08,23.37,51.41,70.67
 bee9b9f9-d980-4b9f-8c16-b8607cdc29dd,25d277dc-e796-4782-a7ef-3e1d2fb59188,1009,High-Capacity French Press,Grinders & Brewers,2025-11-29,2023-04-25,West,3,338.36,1015.08,134.7,444.51,570.57
 7765a98e-365f-47a8-8873-15ee4d967a0b,3e698ca1-661f-444e-b442-838fa7c4206a,1017,Logo Hoodie (Black),Merchandise,2025-11-29,2023-11-14,West,3,15.23,45.69,12.18,40.19,5.5
